@@ -1,0 +1,3 @@
+rootProject.name='Toast_Style_Sample'
+include ':app'
+include ':lib-toaststyle'
